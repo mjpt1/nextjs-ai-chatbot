@@ -1,3 +1,32 @@
+<!-- gen:header -->
+<p align="center"><img src=".github/cover.svg" alt="AI Chatbot" width="100%"></p>
+
+<h1 align="center">AI Chatbot</h1>
+<p align="center"><b>چت‌بات هوش مصنوعی با Next.js و AI SDK</b><br><i>Next.js AI chatbot (based on Vercel Chat SDK)</i></p>
+<p align="center"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-111827?style=for-the-badge"> <img alt="AI SDK" src="https://img.shields.io/badge/-AI%20SDK-111827?style=for-the-badge"> <img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-111827?style=for-the-badge"> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-111827?style=for-the-badge"></p>
+
+<div dir="rtl">
+
+## ✨ امکانات
+
+- پشتیبانی چند مدل
+- ذخیره‌ی گفتگو
+- Artifacts و آپلود فایل
+
+</div>
+
+## 🚀 Quick start
+
+```bash
+pnpm install
+pnpm dev
+```
+
+---
+
+<!-- gen:docs -->
+## 📚 مستندات کامل · Full documentation
+
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chat SDK</h1>
@@ -69,3 +98,8 @@ pnpm dev
 ```
 
 Your app template should now be running on [localhost:3000](http://localhost:3000).
+
+---
+
+<p align="center">ساخته‌شده توسط <a href="https://mahsen81.ir"><b>محسن جباره‌اصل</b></a> — برنامه‌نویسی، طراحی سایت، ربات و هوش مصنوعی<br>
+Built by <a href="https://mahsen81.ir">Mohsen Jabbareh-Asl</a> · ⭐ اگر مفید بود، ستاره بدهید · Need a custom version? <a href="https://mahsen81.ir">Get in touch</a></p>
